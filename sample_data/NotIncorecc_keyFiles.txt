@@ -1,0 +1,96 @@
+Repository: HerokuBot
+  File: akinator.js, Size: 0.38 KB, Path: commands/imgcommands/akinator.js
+  File: beut.js, Size: 0.69 KB, Path: commands/imgcommands/beut.js
+  File: change.js, Size: 0.52 KB, Path: commands/imgcommands/change.js
+  File: coffin.js, Size: 1.17 KB, Path: commands/imgcommands/coffin.js
+  File: fpalm.js, Size: 0.62 KB, Path: commands/imgcommands/fpalm.js
+  File: fuse.js, Size: 0.66 KB, Path: commands/imgcommands/fuse.js
+  File: hitler.js, Size: 0.83 KB, Path: commands/imgcommands/hitler.js
+  File: joke.js, Size: 0.81 KB, Path: commands/imgcommands/joke.js
+  File: phub.js, Size: 0.93 KB, Path: commands/imgcommands/phub.js
+  File: rip.js, Size: 0.81 KB, Path: commands/imgcommands/rip.js
+  File: serverinfo.js, Size: 1.26 KB, Path: commands/imgcommands/serverinfo.js
+  File: slap.js, Size: 1.06 KB, Path: commands/imgcommands/slap.js
+  File: ban.js, Size: 0.91 KB, Path: commands/maincommands/ban.js
+  File: embed.js, Size: 0.55 KB, Path: commands/maincommands/embed.js
+  File: hack.js, Size: 1.08 KB, Path: commands/maincommands/hack.js
+  File: help.js, Size: 1.09 KB, Path: commands/maincommands/help.js
+  File: kick.js, Size: 0.88 KB, Path: commands/maincommands/kick.js
+  File: kill.js, Size: 0.77 KB, Path: commands/maincommands/kill.js
+  File: ping.js, Size: 0.21 KB, Path: commands/maincommands/ping.js
+  File: purge.js, Size: 1.49 KB, Path: commands/maincommands/purge.js
+  File: send.js, Size: 0.86 KB, Path: commands/maincommands/send.js
+  File: whois.js, Size: 0.93 KB, Path: commands/maincommands/whois.js
+  File: play.js, Size: 5.14 KB, Path: commands/music/play.js
+  File: ready.js, Size: 0.23 KB, Path: events/client/ready.js
+  File: message.js, Size: 2.21 KB, Path: events/guild/message.js
+  File: command_handler.js, Size: 0.7 KB, Path: handlers/command_handler.js
+  File: event_handler.js, Size: 0.48 KB, Path: handlers/event_handler.js
+  File: main.js, Size: 0.36 KB, Path: main.js
+
+Repository: Math
+  File: Picalc.py, Size: 2.19 KB, Path: Picalc.py
+  File: Triplet calculator org.py, Size: 0.38 KB, Path: Triplet calculator org.py
+  File: matrix determinant.py, Size: 0.88 KB, Path: matrix determinant.py
+  File: twinprime.py, Size: 1.35 KB, Path: twinprime.py
+
+Repository: Miscellaneous
+  File: dna.py, Size: 2.26 KB, Path: dna.py
+
+Repository: NexusBot
+  File: ping.js, Size: 0.23 KB, Path: commands/utility/ping.js
+  File: server.js, Size: 0.43 KB, Path: commands/utility/server.js
+  File: user.js, Size: 0.52 KB, Path: commands/utility/user.js
+  File: deploy_commands.js, Size: 1.67 KB, Path: deploy_commands.js
+  File: interactionCreate.js, Size: 0.75 KB, Path: events/interactionCreate.js
+  File: ready.js, Size: 0.18 KB, Path: events/ready.js
+  File: index.js, Size: 1.57 KB, Path: index.js
+
+Repository: permutator
+  File: permutator.py, Size: 1.47 KB, Path: permutator.py
+
+Repository: RPS
+  File: rockpaperscissor.py, Size: 2.0 KB, Path: rockpaperscissor.py
+  File: ticktacktoe.py, Size: 7.25 KB, Path: ticktacktoe.py
+
+Repository: Simple_YT_downloader
+  File: index.js, Size: 0.57 KB, Path: index.js
+
+Repository: Test
+  File: akinator.js, Size: 0.35 KB, Path: commands/imgcommands/akinator.js
+  File: beut.js, Size: 0.68 KB, Path: commands/imgcommands/beut.js
+  File: change.js, Size: 0.49 KB, Path: commands/imgcommands/change.js
+  File: coffin.js, Size: 1.13 KB, Path: commands/imgcommands/coffin.js
+  File: fpalm.js, Size: 0.59 KB, Path: commands/imgcommands/fpalm.js
+  File: fuse.js, Size: 0.65 KB, Path: commands/imgcommands/fuse.js
+  File: hitler.js, Size: 0.79 KB, Path: commands/imgcommands/hitler.js
+  File: joke.js, Size: 0.8 KB, Path: commands/imgcommands/joke.js
+  File: phub.js, Size: 0.89 KB, Path: commands/imgcommands/phub.js
+  File: rip.js, Size: 0.8 KB, Path: commands/imgcommands/rip.js
+  File: serverinfo.js, Size: 1.24 KB, Path: commands/imgcommands/serverinfo.js
+  File: slap.js, Size: 1.02 KB, Path: commands/imgcommands/slap.js
+  File: ban.js, Size: 0.82 KB, Path: commands/maincommands/ban.js
+  File: hack.js, Size: 1.04 KB, Path: commands/maincommands/hack.js
+  File: help.js, Size: 0.74 KB, Path: commands/maincommands/help.js
+  File: kick.js, Size: 0.77 KB, Path: commands/maincommands/kick.js
+  File: kill.js, Size: 0.73 KB, Path: commands/maincommands/kill.js
+  File: ping.js, Size: 0.27 KB, Path: commands/maincommands/ping.js
+  File: purge.js, Size: 1.44 KB, Path: commands/maincommands/purge.js
+  File: send.js, Size: 0.8 KB, Path: commands/maincommands/send.js
+  File: whois.js, Size: 0.87 KB, Path: commands/maincommands/whois.js
+  File: play.js, Size: 4.98 KB, Path: commands/music/play.js
+  File: main.js, Size: 4.41 KB, Path: main.js
+
+Repository: v14Bot
+  File: chatgpt.js, Size: 1.39 KB, Path: commands/chatgpt.js
+  File: download.js, Size: 2.22 KB, Path: commands/download.js
+  File: ping.js, Size: 0.29 KB, Path: commands/ping.js
+  File: play.js, Size: 3.7 KB, Path: commands/play.js
+  File: server.js, Size: 0.43 KB, Path: commands/server.js
+  File: user.js, Size: 0.53 KB, Path: commands/user.js
+  File: delete-commands.js, Size: 0.43 KB, Path: delete-commands.js
+  File: deploy-commands.js, Size: 1.32 KB, Path: deploy-commands.js
+  File: guildMemberSpeaking.js, Size: 0.14 KB, Path: events/guildMemberSpeaking.js
+  File: interactionCreate.js, Size: 0.82 KB, Path: events/interactionCreate.js
+  File: ready.js, Size: 0.5 KB, Path: events/ready.js
+  File: index.js, Size: 1.92 KB, Path: index.js
